@@ -1,3 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 
+ul {
+  margin: 0;
+}
+ul li {
+  margin: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+:root {
+  font-weight: 400;
+  font-size: 14px;
+}
 
 /*# sourceMappingURL=style.css.map */
